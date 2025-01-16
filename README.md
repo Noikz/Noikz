@@ -1,5 +1,5 @@
 ![Noikz's GitHub stats](https://github-readme-stats.vercel.app/api?username=noikz&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Noikz&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Noikz&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Noikz/Noikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
