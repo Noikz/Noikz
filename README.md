@@ -1,7 +1,12 @@
 ![Noikz's GitHub stats](https://github-readme-stats.vercel.app/api?username=noikz&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Noikz&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noikz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noikz/noikz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noikz/noikz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/noikz/noikz/output/github-snake.svg" />
+</picture>
 <!--
 **Noikz/Noikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
